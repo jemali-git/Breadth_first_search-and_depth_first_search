@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>new_BFS.png</file>
+        <file>new_DELETE.png</file>
+        <file>new_DFS.png</file>
+        <file>new_NEW.png</file>
+        <file>new_EXIT.png</file>
+        <file>new_STOP.png</file>
+        <file>continue.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>deletesound.wav</file>
+        <file>new_sound.wav</file>
+        <file>D_BFS_sound.wav</file>
+        <file>change_all.wav</file>
+        <file>Mouse_click.wav</file>
+    </qresource>
+</RCC>

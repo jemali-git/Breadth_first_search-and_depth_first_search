@@ -1,0 +1,10 @@
+
+class QMPButton : public QPushButton
+{
+  Q_OBJECT
+  QSize imagesize;
+public:
+  explicit QMPButton(const QString &_shape,QObject *parent = 0);
+signals:
+public slots:
+};
