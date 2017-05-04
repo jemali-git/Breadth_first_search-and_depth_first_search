@@ -1,6 +1,6 @@
 ﻿# Breadth_first_search-and_depth_first_search
 
-**this is a demo of the project**
+**this is a demo project**
 
 
 
